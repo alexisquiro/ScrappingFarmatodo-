@@ -1,0 +1,1588 @@
+1604275092715	geckodriver	INFO	Listening on 127.0.0.1:45867
+1604275092752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilephWzG8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604275098848	Marionette	INFO	Listening on port 37411
+1604275098965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604275108120	Marionette	INFO	Stopped listening on port 37411
+1604275152424	geckodriver	INFO	Listening on 127.0.0.1:49967
+1604275152430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexTEL14"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604275156890	Marionette	INFO	Listening on port 35955
+1604275156976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604275170867	Marionette	INFO	Stopped listening on port 35955
+1604275174830	geckodriver	INFO	Listening on 127.0.0.1:35625
+1604275174836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEhyTyX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604275179271	Marionette	INFO	Listening on port 39199
+1604275179395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/producto/111262157-removedor-farmatodo-60ml line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/producto/111262157-removedor-farmatodo-60ml line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/producto/111262157-removedor-farmatodo-60ml line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604275217555	Marionette	INFO	Stopped listening on port 39199
+1604275534309	geckodriver	INFO	Listening on 127.0.0.1:51333
+1604275534314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOwooob"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604275539072	Marionette	INFO	Listening on port 35711
+1604275539180	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604275569820	Marionette	INFO	Stopped listening on port 35711
+1604276803907	geckodriver	INFO	Listening on 127.0.0.1:55777
+1604276804914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKYGibS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604276809831	Marionette	INFO	Listening on port 39351
+1604276809894	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1210:3
+
+1604276954147	Marionette	INFO	Stopped listening on port 39351
+1604277007731	geckodriver	INFO	Listening on 127.0.0.1:45773
+1604277007745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWlTYU4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604277012433	Marionette	INFO	Listening on port 34185
+1604277012502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604277072354	Marionette	INFO	Stopped listening on port 34185
+1604277275769	geckodriver	INFO	Listening on 127.0.0.1:32945
+1604277275775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQQlu7R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604277280608	Marionette	INFO	Listening on port 41463
+1604277280734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1604277337457	geckodriver	INFO	Listening on 127.0.0.1:52549
+1604277337462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyzSAjT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604277342241	Marionette	INFO	Listening on port 37091
+1604277342342	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/ line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604277409903	Marionette	INFO	Stopped listening on port 37091
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileyzSAjT/protections.sqlite
+1604277599307	geckodriver	INFO	Listening on 127.0.0.1:45213
+1604277599312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem9DixC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604277603806	Marionette	INFO	Listening on port 37733
+1604277603876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604282422259	geckodriver	INFO	Listening on 127.0.0.1:33603
+1604282422265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSaJYap"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604282426758	Marionette	INFO	Listening on port 33027
+1604282426840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604282518281	geckodriver	INFO	Listening on 127.0.0.1:56437
+1604282518287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehT6wY5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2726: TypeError: event.target.closest is not a function
+1604282523128	Marionette	INFO	Listening on port 36887
+1604282523261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604282635592	geckodriver	INFO	Listening on 127.0.0.1:44801
+1604282636598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefGRxvQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604282641839	Marionette	INFO	Listening on port 37943
+1604282641958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604282645465	Marionette	INFO	Stopped listening on port 36887
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604282867478	Marionette	INFO	Stopped listening on port 37943
+1604282869253	geckodriver	INFO	Listening on 127.0.0.1:56771
+1604282869259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecwoiyW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604282873799	Marionette	INFO	Listening on port 38267
+1604282873914	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604283020856	Marionette	INFO	Stopped listening on port 38267
+1604283063354	geckodriver	INFO	Listening on 127.0.0.1:43133
+1604283063370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecc0b1E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604283068118	Marionette	INFO	Listening on port 40611
+1604283068217	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604283141320	Marionette	INFO	Stopped listening on port 40611
+1604283182865	geckodriver	INFO	Listening on 127.0.0.1:58647
+1604283182871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez7Y62o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604283187234	Marionette	INFO	Listening on port 44955
+1604283187338	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604283283174	Marionette	INFO	Stopped listening on port 44955
+JavaScript error: https://farmatodo.com.ve/polyfills-es2015.1bd17728466e6f218e7e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1604283585931	geckodriver	INFO	Listening on 127.0.0.1:43017
+1604283585938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6j6Xph"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604283590574	Marionette	INFO	Listening on port 43993
+1604283590689	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604283689210	Marionette	INFO	Stopped listening on port 43993
+1604283774440	geckodriver	INFO	Listening on 127.0.0.1:55957
+1604283774445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAd6TLX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604283779059	Marionette	INFO	Listening on port 43181
+1604283779103	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604283856108	Marionette	INFO	Stopped listening on port 43181
+1604283873227	geckodriver	INFO	Listening on 127.0.0.1:34381
+1604283873232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGJluLA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604283877978	Marionette	INFO	Listening on port 45103
+1604283878138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604283940051	geckodriver	INFO	Listening on 127.0.0.1:52939
+1604283940056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3xN97O"
+1604283944514	Marionette	INFO	Stopped listening on port 45103
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604283945458	Marionette	INFO	Listening on port 41163
+1604283945533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604284011236	Marionette	INFO	Stopped listening on port 41163
+1604284118512	geckodriver	INFO	Listening on 127.0.0.1:40519
+1604284118518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefa7wX2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604284123065	Marionette	INFO	Listening on port 33117
+1604284123166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604284240217	geckodriver	INFO	Listening on 127.0.0.1:45587
+1604284240222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6CabTu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604284245191	Marionette	INFO	Stopped listening on port 33117
+1604284245311	Marionette	INFO	Listening on port 35411
+1604284245390	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604284390060	Marionette	INFO	Stopped listening on port 35411
+1604284417488	geckodriver	INFO	Listening on 127.0.0.1:42417
+1604284418497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKc9F43"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604284423424	Marionette	INFO	Listening on port 41901
+1604284423566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604284477726	Marionette	INFO	Stopped listening on port 41901
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileKc9F43/protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604284485940	geckodriver	INFO	Listening on 127.0.0.1:50443
+1604284485945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebTXybb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604284490668	Marionette	INFO	Listening on port 33879
+1604284490718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604284571883	Marionette	INFO	Stopped listening on port 33879
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilebTXybb/protections.sqlite
+1604284745885	geckodriver	INFO	Listening on 127.0.0.1:54861
+1604284746891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej0qN2A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604284751420	Marionette	INFO	Listening on port 36377
+1604284751549	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604284822747	Marionette	INFO	Stopped listening on port 36377
+1604284855010	geckodriver	INFO	Listening on 127.0.0.1:44459
+1604284855016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZkbr8B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604284859818	Marionette	INFO	Listening on port 33897
+1604284859874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604285068578	geckodriver	INFO	Listening on 127.0.0.1:34459
+1604285068583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileds2lvQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604285073109	Marionette	INFO	Listening on port 42679
+1604285073233	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604285234743	Marionette	INFO	Stopped listening on port 42679
+1604285237574	Marionette	INFO	Stopped listening on port 33897
+1604330331122	geckodriver	INFO	Listening on 127.0.0.1:54595
+1604330332102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu49e8j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604330337847	Marionette	INFO	Listening on port 33027
+1604330338162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604330387242	Marionette	INFO	Stopped listening on port 33027
+1604330404128	geckodriver	INFO	Listening on 127.0.0.1:48145
+1604330404133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecoN6SY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604330408511	Marionette	INFO	Listening on port 40327
+1604330408583	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604330558626	Marionette	INFO	Stopped listening on port 40327
+1604331086389	geckodriver	INFO	Listening on 127.0.0.1:56621
+1604331086395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile524etC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604331092388	Marionette	INFO	Listening on port 44863
+1604331092490	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604331209416	geckodriver	INFO	Listening on 127.0.0.1:44717
+1604331209421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA12CrC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604331214698	Marionette	INFO	Listening on port 41687
+1604331214867	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604331217995	Marionette	INFO	Stopped listening on port 44863
+1604331626510	geckodriver	INFO	Listening on 127.0.0.1:39187
+1604331626517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZX0ijC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604331631231	Marionette	INFO	Listening on port 42233
+1604331631286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604331631311	Marionette	INFO	Stopped listening on port 41687
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604331739621	geckodriver	INFO	Listening on 127.0.0.1:37275
+1604331739628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJfJp5R"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileZX0ijC/protections.sqlite
+1604331747922	Marionette	INFO	Stopped listening on port 42233
+1604331756094	geckodriver	INFO	Listening on 127.0.0.1:42885
+1604331756099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg6yW2U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604331760428	Marionette	INFO	Listening on port 41895
+1604331760552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604331908065	Marionette	INFO	Stopped listening on port 41895
+1604331946979	geckodriver	INFO	Listening on 127.0.0.1:59075
+1604331946984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCRWdbE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604331951485	Marionette	INFO	Listening on port 39207
+1604331951547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604332147293	Marionette	INFO	Stopped listening on port 39207
+1604332249184	geckodriver	INFO	Listening on 127.0.0.1:59539
+1604332249189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRYjCwZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604332253634	Marionette	INFO	Listening on port 41427
+1604332253752	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604332305548	Marionette	INFO	Stopped listening on port 41427
+1604332313937	geckodriver	INFO	Listening on 127.0.0.1:45923
+1604332313942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuIcAhJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604332318511	Marionette	INFO	Listening on port 40519
+1604332318616	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604332524253	Marionette	INFO	Stopped listening on port 40519
+1604332590280	geckodriver	INFO	Listening on 127.0.0.1:53155
+1604332590290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledYDJmU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604332596670	Marionette	INFO	Listening on port 38749
+1604332596784	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604332837002	Marionette	INFO	Stopped listening on port 38749
+1604332929804	geckodriver	INFO	Listening on 127.0.0.1:41257
+1604332929843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekajjdl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604332934923	Marionette	INFO	Listening on port 44049
+1604332935011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604333064128	Marionette	INFO	Stopped listening on port 44049
+1604333236098	geckodriver	INFO	Listening on 127.0.0.1:44645
+1604333236103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecpLSHd"
+1604333249274	geckodriver	INFO	Listening on 127.0.0.1:56619
+1604333249280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemPAsyE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604333253919	Marionette	INFO	Listening on port 39565
+1604333254039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604333488330	geckodriver	INFO	Listening on 127.0.0.1:37695
+1604333488335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUYdwFr"
+1604333492044	Marionette	INFO	Stopped listening on port 39565
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604333493254	Marionette	INFO	Listening on port 44363
+1604333493302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604333573231	geckodriver	INFO	Listening on 127.0.0.1:47011
+1604333573237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewdOIxs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604333578164	Marionette	INFO	Listening on port 41499
+1604333578286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604333584144	Marionette	INFO	Stopped listening on port 44363
+1604333712842	Marionette	INFO	Stopped listening on port 41499
+1604333895431	geckodriver	INFO	Listening on 127.0.0.1:33927
+1604333895437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileofX5qw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604333899847	Marionette	INFO	Listening on port 34471
+1604333899914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604334002329	geckodriver	INFO	Listening on 127.0.0.1:58261
+1604334002334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileatGdtY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604334006972	Marionette	INFO	Listening on port 38547
+1604334007081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604334026171	Marionette	INFO	Stopped listening on port 34471
+1604334114270	geckodriver	INFO	Listening on 127.0.0.1:37075
+1604334114275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg2XOpG"
+1604334117818	Marionette	INFO	Stopped listening on port 38547
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604334119007	Marionette	INFO	Listening on port 40795
+1604334119126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604334248260	Marionette	INFO	Stopped listening on port 40795
+1604334414488	geckodriver	INFO	Listening on 127.0.0.1:59933
+1604334414493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuZTvL2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604334418938	Marionette	INFO	Listening on port 45017
+1604334419044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604336120039	geckodriver	INFO	Listening on 127.0.0.1:53369
+1604336120044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexzGXfd"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604336122998	Marionette	INFO	Stopped listening on port 45017
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604336125987	Marionette	INFO	Listening on port 34713
+1604336126053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604336288496	geckodriver	INFO	Listening on 127.0.0.1:49213
+1604336288502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDbQCy2"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604336291587	Marionette	INFO	Stopped listening on port 34713
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604336293567	Marionette	INFO	Listening on port 34729
+1604336293657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604336392366	geckodriver	INFO	Listening on 127.0.0.1:46769
+1604336393371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecVdKgH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604336397914	Marionette	INFO	Listening on port 46579
+1604336398027	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604336403390	Marionette	INFO	Stopped listening on port 34729
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604336648240	geckodriver	INFO	Listening on 127.0.0.1:46021
+1604336648245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9KjfpV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604336652884	Marionette	INFO	Listening on port 38967
+1604336653008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604336816207	Marionette	INFO	Stopped listening on port 46579
+1604336818455	Marionette	INFO	Stopped listening on port 38967
+1604336953581	geckodriver	INFO	Listening on 127.0.0.1:51143
+1604336953587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled4nyxk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604336958135	Marionette	INFO	Listening on port 40689
+1604336958260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1604337063627	geckodriver	INFO	Listening on 127.0.0.1:39123
+1604337063633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVIKYzz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604337068178	Marionette	INFO	Listening on port 42731
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604337068300	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604337220279	geckodriver	INFO	Listening on 127.0.0.1:34033
+1604337220285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUwKh3z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604337224957	Marionette	INFO	Listening on port 44981
+1604337225034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1604337385959	geckodriver	INFO	Listening on 127.0.0.1:50443
+1604337385964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4FwpT5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604337390827	Marionette	INFO	Listening on port 46165
+1604337390924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604337630959	Marionette	INFO	Stopped listening on port 46165
+1604337830150	geckodriver	INFO	Listening on 127.0.0.1:45309
+1604337830157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileue0399"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604337834764	Marionette	INFO	Listening on port 36899
+1604337834815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604338116038	geckodriver	INFO	Listening on 127.0.0.1:49661
+1604338117046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTZ3arH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604338121370	Marionette	INFO	Listening on port 36231
+1604338121494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604338151374	Marionette	INFO	Stopped listening on port 36899
+1604338312492	geckodriver	INFO	Listening on 127.0.0.1:35845
+1604338312497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb0ow29"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604338317355	Marionette	INFO	Listening on port 33687
+1604338317442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604338321641	Marionette	INFO	Stopped listening on port 36231
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604338404409	Marionette	INFO	Stopped listening on port 33687
+1604338722913	geckodriver	INFO	Listening on 127.0.0.1:58463
+1604338722920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57dhBF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604338727273	Marionette	INFO	Listening on port 42673
+1604338727369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604338829332	Marionette	INFO	Stopped listening on port 42673
+1604338994934	geckodriver	INFO	Listening on 127.0.0.1:50879
+1604338994940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVtv92X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604338999575	Marionette	INFO	Listening on port 39565
+1604338999695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604339697322	geckodriver	INFO	Listening on 127.0.0.1:58773
+1604339697328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0zJ3VC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604339702810	Marionette	INFO	Listening on port 34719
+1604339702896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604339705754	Marionette	INFO	Stopped listening on port 39565
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604339840098	geckodriver	INFO	Listening on 127.0.0.1:55965
+1604339840105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQjjSt5"
+1604339842878	Marionette	INFO	Stopped listening on port 34719
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604339845159	Marionette	INFO	Listening on port 40331
+1604339845277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604340084517	Marionette	INFO	Stopped listening on port 40331
+1604340132691	geckodriver	INFO	Listening on 127.0.0.1:35137
+1604340132697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles83RBl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604340137249	Marionette	INFO	Listening on port 37281
+1604340137347	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604340249488	geckodriver	INFO	Listening on 127.0.0.1:54595
+1604340249493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiPed3o"
+1604340253186	Marionette	INFO	Stopped listening on port 37281
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604340254920	Marionette	INFO	Listening on port 33165
+1604340255042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604340397931	Marionette	INFO	Stopped listening on port 33165
+1604340605052	geckodriver	INFO	Listening on 127.0.0.1:34361
+1604340605057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqJROVm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604340609667	Marionette	INFO	Listening on port 33925
+1604340609715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604340937015	Marionette	INFO	Stopped listening on port 33925
+1604340944636	geckodriver	INFO	Listening on 127.0.0.1:41223
+1604340944643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4uub5X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604340949499	Marionette	INFO	Listening on port 41897
+1604340949602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604341397888	geckodriver	INFO	Listening on 127.0.0.1:59255
+1604341397895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5pHnMX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604341402314	Marionette	INFO	Listening on port 38531
+1604341402359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604341505704	Marionette	INFO	Stopped listening on port 41897
+1604341700854	Marionette	INFO	Stopped listening on port 38531
+1604342440930	geckodriver	INFO	Listening on 127.0.0.1:40897
+1604342440938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePCz33Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604342446146	Marionette	INFO	Listening on port 37265
+1604342446241	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604342643829	geckodriver	INFO	Listening on 127.0.0.1:58239
+1604342643836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecF53Oi"
+1604342647015	Marionette	INFO	Stopped listening on port 37265
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604342649549	Marionette	INFO	Listening on port 44815
+1604342649627	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604345983386	geckodriver	INFO	Listening on 127.0.0.1:42145
+1604345983394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewJPAWT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604345989171	Marionette	INFO	Listening on port 40073
+1604345989255	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604345994117	Marionette	INFO	Stopped listening on port 44815
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604346168462	Marionette	INFO	Stopped listening on port 40073
+1604346312674	geckodriver	INFO	Listening on 127.0.0.1:46005
+1604346312681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyzS545"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604346317630	Marionette	INFO	Listening on port 42671
+1604346317747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604346399673	geckodriver	INFO	Listening on 127.0.0.1:36639
+1604346400680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0PDscV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604346405969	Marionette	INFO	Listening on port 36519
+1604346406117	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604346410530	Marionette	INFO	Stopped listening on port 42671
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604346735801	geckodriver	INFO	Listening on 127.0.0.1:35125
+1604346735806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledGaLLg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604346741236	Marionette	INFO	Listening on port 42893
+1604346741384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604346744775	Marionette	INFO	Stopped listening on port 36519
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604346981657	Marionette	INFO	Stopped listening on port 42893
+1604347115349	geckodriver	INFO	Listening on 127.0.0.1:49303
+1604347115356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile73QdIn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604347121719	Marionette	INFO	Listening on port 34703
+1604347121854	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604352375037	geckodriver	INFO	Listening on 127.0.0.1:60277
+1604352375042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEx9xdP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604352379609	Marionette	INFO	Listening on port 45325
+1604352379716	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604352669995	geckodriver	INFO	Listening on 127.0.0.1:39145
+1604352670001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4PAXaV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604352674709	Marionette	INFO	Listening on port 34915
+1604352674758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604352698668	Marionette	INFO	Stopped listening on port 45325
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604352892535	Marionette	INFO	Stopped listening on port 34915
+1604352894127	geckodriver	INFO	Listening on 127.0.0.1:37725
+1604352894132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiKG6Fi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604352898817	Marionette	INFO	Listening on port 33089
+1604352898888	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604353362081	Marionette	INFO	Stopped listening on port 33089
+1604353375012	geckodriver	INFO	Listening on 127.0.0.1:60781
+1604353375017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3X510F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604353379483	Marionette	INFO	Listening on port 46395
+1604353379567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604353657041	geckodriver	INFO	Listening on 127.0.0.1:60385
+1604353657047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuKhuXL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604353662043	Marionette	INFO	Listening on port 44133
+1604353662269	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604353667395	Marionette	INFO	Stopped listening on port 46395
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604353798647	geckodriver	INFO	Listening on 127.0.0.1:56937
+1604353798652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenabRgD"
+1604353802152	Marionette	INFO	Stopped listening on port 44133
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604353803404	Marionette	INFO	Listening on port 37739
+1604353803509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604353994440	Marionette	INFO	Stopped listening on port 37739
+1604355217629	geckodriver	INFO	Listening on 127.0.0.1:55659
+1604355217634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo7U7gz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604355222140	Marionette	INFO	Listening on port 43855
+1604355222188	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604355756144	geckodriver	INFO	Listening on 127.0.0.1:51821
+1604355756172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOckfft"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604355763490	Marionette	INFO	Listening on port 39697
+1604355763592	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604355771774	Marionette	INFO	Stopped listening on port 43855
+1604355960009	Marionette	INFO	Stopped listening on port 39697
+1604416113585	geckodriver	INFO	Listening on 127.0.0.1:36425
+1604416114573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuihNQ2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604416120245	Marionette	INFO	Listening on port 45471
+1604416120555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+1604416404923	Marionette	INFO	Stopped listening on port 45471
+1604416407712	geckodriver	INFO	Listening on 127.0.0.1:43533
+1604416407717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoZ0yyY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604416412505	Marionette	INFO	Listening on port 45273
+1604416412591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=farmatodo&departamento=Todos&filtros=%20AND%20%20Categor%C3%ADa:%27Cuidado%20De%20La%20Piel%27%20AND%20fullPrice%20%3E%3D%200.01%20AND%20fullPrice%20%3C%3D%202990000 line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+1604416565039	Marionette	INFO	Stopped listening on port 45273
+1604416578642	geckodriver	INFO	Listening on 127.0.0.1:49391
+1604416578648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0HdP5m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604416583313	Marionette	INFO	Listening on port 39779
+1604416583403	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604416714731	Marionette	INFO	Stopped listening on port 39779
+1604416720209	geckodriver	INFO	Listening on 127.0.0.1:40235
+1604416720215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2MUMoR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604416724564	Marionette	INFO	Listening on port 44985
+1604416724658	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604416926853	Marionette	INFO	Stopped listening on port 44985
+1604417919223	geckodriver	INFO	Listening on 127.0.0.1:54201
+1604417919229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehv4Wg0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604417924271	Marionette	INFO	Listening on port 33989
+1604417924391	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://farmatodo.com.ve"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604418136890	Marionette	INFO	Stopped listening on port 33989
+1604418138568	geckodriver	INFO	Listening on 127.0.0.1:36989
+1604418138575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFtX3NS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604418143240	Marionette	INFO	Listening on port 46467
+1604418143340	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1604418283178	Marionette	INFO	Stopped listening on port 46467
+1604419248680	geckodriver	INFO	Listening on 127.0.0.1:51897
+1604419248688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevxCft2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604419253675	Marionette	INFO	Listening on port 43709
+1604419253741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604419437641	geckodriver	INFO	Listening on 127.0.0.1:51089
+1604419437646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJNWlR4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604419442640	Marionette	INFO	Listening on port 39691
+1604419442729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604419445545	Marionette	INFO	Stopped listening on port 43709
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604419616886	geckodriver	INFO	Listening on 127.0.0.1:36167
+1604419616892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDKaXB4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604419622515	Marionette	INFO	Listening on port 32799
+1604419622613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604419627397	Marionette	INFO	Stopped listening on port 39691
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+1604419783666	Marionette	INFO	Stopped listening on port 32799
+1604419876173	geckodriver	INFO	Listening on 127.0.0.1:41921
+1604419876179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekC8KQl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604419880754	Marionette	INFO	Listening on port 43585
+1604419880835	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604420021449	Marionette	INFO	Stopped listening on port 43585
+1604420023759	geckodriver	INFO	Listening on 127.0.0.1:45345
+1604420023765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemTmMOV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604420028242	Marionette	INFO	Listening on port 44777
+1604420028319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604420279780	geckodriver	INFO	Listening on 127.0.0.1:50157
+1604420279806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNqReOE"
+1604420284561	Marionette	INFO	Stopped listening on port 44777
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604420285395	Marionette	INFO	Listening on port 36281
+1604420285512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604420388892	geckodriver	INFO	Listening on 127.0.0.1:52861
+1604420388898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8g3cUm"
+1604420393291	Marionette	INFO	Stopped listening on port 36281
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604420394216	Marionette	INFO	Listening on port 44973
+1604420394288	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 598 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604420632442	geckodriver	INFO	Listening on 127.0.0.1:41721
+1604420632447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIv4L5U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604420637207	Marionette	INFO	Listening on port 39639
+1604420637309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604420773572	geckodriver	INFO	Listening on 127.0.0.1:47497
+1604420773580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN7T8FF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604420778499	Marionette	INFO	Listening on port 37993
+1604420778634	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604420782543	Marionette	INFO	Stopped listening on port 44973
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604420783919	Marionette	INFO	Stopped listening on port 39639
+JavaScript error: https://farmatodo.com.ve/main-es2015.4549ba19d9875aad9a8b.js, line 1: ReferenceError: Zone is not defined
+1604420862238	Marionette	INFO	Stopped listening on port 37993
+1604421142826	geckodriver	INFO	Listening on 127.0.0.1:53363
+1604421142832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU7nssi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604421147228	Marionette	INFO	Listening on port 38635
+1604421147301	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604421183264	Marionette	INFO	Stopped listening on port 38635
+1604421271764	geckodriver	INFO	Listening on 127.0.0.1:35949
+1604421271769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletGVZ5S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604421276155	Marionette	INFO	Listening on port 35263
+1604421276226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604421447347	geckodriver	INFO	Listening on 127.0.0.1:40697
+1604421447353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez51CsB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604421452065	Marionette	INFO	Listening on port 36977
+1604421452115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604421742081	Marionette	INFO	Stopped listening on port 35263
+1604421746582	Marionette	INFO	Stopped listening on port 36977
+1604421789759	geckodriver	INFO	Listening on 127.0.0.1:55051
+1604421789765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQD3Nf0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604421794449	Marionette	INFO	Listening on port 36447
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604421794518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 4: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1604422000619	Marionette	INFO	Stopped listening on port 36447
+1604422067481	geckodriver	INFO	Listening on 127.0.0.1:37777
+1604422067490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDmDQL7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604422072459	Marionette	INFO	Listening on port 34661
+1604422072559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: "Could not load engine google@search.mozilla.org: Error: Data is not ready."
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1604422076251	Marionette	INFO	Stopped listening on port 34661
+1604422083838	geckodriver	INFO	Listening on 127.0.0.1:51299
+1604422083843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUYExCh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604422088607	Marionette	INFO	Listening on port 45701
+1604422088703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+1604422215252	Marionette	INFO	Stopped listening on port 45701
+1604422217362	geckodriver	INFO	Listening on 127.0.0.1:52781
+1604422217370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAJPguJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604422222425	Marionette	INFO	Listening on port 44991
+1604422222541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604422274215	Marionette	INFO	Stopped listening on port 44991
