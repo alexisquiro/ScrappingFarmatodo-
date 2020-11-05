@@ -68,7 +68,7 @@ for c in cards:
     images.append(picture['src'])
     #extraemos el nombre 
     name=pageSoup.find('p',class_='text-title')
-    names.append(name.textr)
+    names.append(name.text)
     #extraemos la descripcion 
     descr=pageSoup.find('p',class_='text-description')
     description.append(descr.text)

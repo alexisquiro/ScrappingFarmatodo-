@@ -4218,3 +4218,39 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
 1604584649745	Marionette	INFO	Stopped listening on port 37235
+1604584938978	geckodriver	INFO	Listening on 127.0.0.1:60481
+1604584938983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea9MuyJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604584943496	Marionette	INFO	Listening on port 41713
+1604584943628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://farmatodo.com.ve/categorias/belleza/cosmeticos line 597 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Removedor%20Esmalte%20Valmy%2050Cc&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Removedor%20Farmatodo%2060Ml&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Removedor%20Farmatodo%20Con%20Vit%20E%2060Ml&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Removedor%20Farmatodo%20250Ml&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Corta%20Cut%C3%ADcula%20Para%20Pies%20Trim&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Removedor%20Farmatodo%20Sin%20Acetona%20250Ml&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Delineador%20Valmy%20Para%20Ojos%20Negro&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Lip%20Care%20Pi%C3%B1a%20Colada%204%20Gr&departamento=Todos&filtros= line 597 > injectedScript, line 6: TypeError: window.appboy is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Lip%20Care%20Pi%C3%B1a%20Colada%204%20Gr&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Corta%20Cuticula%20Trim%20&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Perfect%20Sexy%2031&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Gel%20Ultra%20Brillo%20(106001)&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Cepillo%20Dental%20Farmatodo%20Viajero%20Und&departamento=Todos&filtros= line 597 > injectedScript, line 6: TypeError: window.appboy is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Cepillo%20Dental%20Farmatodo%20Viajero%20Und&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Xtreme%20Color%20Fucsia%2005&departamento=Todos&filtros= line 597 > injectedScript, line 6: TypeError: window.appboy is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Xtreme%20Color%20Fucsia%2005&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Endurecedor%20N227%20Sinfonia&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Los%20Roques%20235&departamento=Todos&filtros= line 597 > injectedScript, line 6: TypeError: window.appboy is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Los%20Roques%20235&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Quimica%20Endurecedora%20Ajo-limon&departamento=Todos&filtros= line 597 > injectedScript, line 6: TypeError: window.appboy is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Quimica%20Endurecedora%20Ajo-limon&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Xtreme%20N110%20I%20Love%20You&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Perfect%20%20Romance%2008&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Ocaso%20237&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Xtreme%20Color%20Flamenco%2006&departamento=Todos&filtros= line 597 > injectedScript, line 6: TypeError: window.appboy is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Labial%20Valmy%20Xtreme%20Color%20Flamenco%2006&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Xtreme%20N111%20Namaste&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Xtreme%20117%20Banana%20Split%20(101117)&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
+JavaScript error: https://farmatodo.com.ve/buscar?producto=Esmalte%20Valmy%20Endurecedor%2001&departamento=Todos&filtros= line 597 > injectedScript, line 2: TypeError: searchImpressions is undefined
